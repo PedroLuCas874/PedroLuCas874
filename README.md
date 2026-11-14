@@ -49,7 +49,7 @@ Desenvolvo sistemas para servidores de roleplay em **FiveM** desde a base até a
 
 ## 🚀 O que a ScriptiX faz
 
-| | Serviço | |
+| | Serviço | O que entra |
 |:-:|---|---|
 | 🎮 | **Scripts FiveM** | HUD, celular (NPWD), mecânica, economia, empregos, crime, casas, corridas, anticheat |
 | 🌐 | **Sites e lojas** | Sites rápidos, loja integrada à Tebex, landing pages |
